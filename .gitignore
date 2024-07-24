@@ -1,0 +1,22 @@
+﻿# 忽略 Visual Studio 2022 的暫存檔案
+/.vs/
+
+# 忽略 Visual Studio 2022 的解決方案特定檔案
+*.suo
+*.user
+*.sln.docstates
+
+# 忽略 Visual Studio 2022 的編譯器檔案
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.appx
+*.appxbundle
+
+# 忽略 NuGet 套件資料夾
+/packages/
+
+# 忽略任何其他自訂的檔案或目錄
+/customfolder/
+myfile.txt
